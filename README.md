@@ -1,0 +1,1 @@
+# Average-value-calculat-for-numbers-from-the-file
